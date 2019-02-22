@@ -8,4 +8,4 @@ Palindrome: This application runs in the terminal and will tell the user if the 
 
 Fizzbuzz: This application runs in the terminal and will produce the following results bases on an integer input. "Fizzbuzz" if the input is divisible by 3 and 5, "Fizz" if the input is divisible by 3, and "Buzz" if the input is divisible by 5.
 
-GroceryApp: This application runs in the terminal and will allow the user to create a grocery list by adding stores and then adding items to each store. This application is also dependant on Store.py GroceryItem.py and groceryfunctions.py
+GroceryApp: This application runs in the terminal and will allow the user to create a grocery list by adding stores and then adding items to each store. This application is also dependant on Store.py GroceryItem.py and Groceryfunctions.py
